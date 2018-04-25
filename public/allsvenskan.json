@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "Namn": "Hammarby",
+    "Hemmaplan": "Tele2 arena (Nya Söderstadion)",
+    "Coach": "Stefan Billborn",
+    "Badge": "http://www.hammarbyfotboll.se/wp-content/uploads/2016/02/Logo-desktop.png"
+  },
+  {
+    "id": 2,
+    "Namn": "IFK Göteborg",
+    "Hemmaplan": "Gamla Ullevi",
+    "Coach": "Poya Asbaghi",
+    "Badge": "http://ifkgoteborg.se/wp-content/uploads/2017/09/ifk-icon.png"
+  },
+  {
+    "id": 3,
+    "Namn": "Malmö FF",
+    "Hemmaplan": "Malmö stadion",
+    "Coach": "Magnus Pehrsson",
+    "Badge": "https://pbs.twimg.com/profile_images/922491369213562880/JpJ5hM4F_400x400.jpg"
+  }
+]

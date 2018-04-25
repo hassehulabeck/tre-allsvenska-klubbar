@@ -1,0 +1,14 @@
+.subtitle {
+  font-style: italic;
+  font-size: x-large;
+  color: coral;
+}
+
+img {
+  max-height: 200px; 
+}
+
+.featuredTeam {
+  border-radius: 2px;
+  background-color: azure;
+}
